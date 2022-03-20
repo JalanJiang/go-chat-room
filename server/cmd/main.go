@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/go-chat-room/server"
+	"github.com/JalanJiang/go-chat-room/server"
 )
 
 func main() {
